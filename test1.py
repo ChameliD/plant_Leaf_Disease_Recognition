@@ -1,7 +1,8 @@
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
-
+# I made this comment for test git bash commands
+# Hope I will be good with this 
 originalImage=cv2.imread("tomato1.jpg")
 imageCheck=cv2.imread('tomato1.jpg')
 
